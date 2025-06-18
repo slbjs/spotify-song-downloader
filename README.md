@@ -20,15 +20,8 @@ All without needing to install anything — fully static, fully client-side!
 
 ---
 
-## 📸 Preview
-
-![UI Preview](./261ef6d4-ca5f-4a0c-91ad-8152628e342d.png)
-
----
-
 ## 🛠️ How It Works
 
-- Built using **pure HTML, CSS, and JavaScript**
 - Uses **Spotify’s search API** for metadata
 - Integrates with a **third-party download API** to fetch direct download links
 - Deployed via **GitHub Pages**
