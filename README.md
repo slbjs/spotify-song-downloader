@@ -26,7 +26,3 @@ All without needing to install anything — fully static, fully client-side!
 - Integrates with a **third-party download API** to fetch direct download links
 - Deployed via **GitHub Pages**
 
----
-
-## 📁 File Structure
-
